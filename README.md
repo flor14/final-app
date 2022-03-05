@@ -2,6 +2,8 @@
 ### Dash-py app 
 
 
+### Run the app locally
+
 To run this app using Docker:
 
 ```bash
