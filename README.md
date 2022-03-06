@@ -4,7 +4,7 @@
 
 ### Run the app locally
 
-To run this app using Docker:
+To run this app using Docker write the following commands after cloning the repo:
 
 ```bash
 cd final-app
